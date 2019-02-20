@@ -1,0 +1,3 @@
+!\::
+Send, {end}{enter}
+return

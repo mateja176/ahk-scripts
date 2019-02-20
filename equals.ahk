@@ -1,0 +1,3 @@
+!=::
+Send, {space}={space}
+return
